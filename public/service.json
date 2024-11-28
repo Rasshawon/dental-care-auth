@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "treatment_name": "Teeth Whitening",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL-GjPenHBKmjJHi0o4vZI7xCr339jovg0Q&s",
+    "description": "A cosmetic procedure to make your teeth look brighter and whiter.",
+    "cost": 200
+  },
+  {
+    "id": 2,
+    "treatment_name": "Dental Cleaning",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL-GjPenHBKmjJHi0o4vZI7xCr339jovg0Q&s",
+    "description": "Professional cleaning to remove plaque, tartar, and stains from teeth.",
+    "cost": 100
+  },
+  {
+    "id": 3,
+    "treatment_name": "Cavity Filling",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL-GjPenHBKmjJHi0o4vZI7xCr339jovg0Q&s",
+    "description": "Restores a decayed tooth by filling it with composite or amalgam material.",
+    "cost": 150
+  },
+  {
+    "id": 4,
+    "treatment_name": "Root Canal Therapy",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL-GjPenHBKmjJHi0o4vZI7xCr339jovg0Q&s",
+    "description": "Treatment for removing infected pulp and saving the natural tooth.",
+    "cost": 800
+  },
+  {
+    "id": 5,
+    "treatment_name": "Dental Crown",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL-GjPenHBKmjJHi0o4vZI7xCr339jovg0Q&s",
+    "description": "A cap placed over a damaged or weakened tooth to restore its strength and appearance.",
+    "cost": 1200
+  },
+  {
+    "id": 6,
+    "treatment_name": "Dental Implant",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL-GjPenHBKmjJHi0o4vZI7xCr339jovg0Q&s",
+    "description": "A permanent replacement for missing teeth using a metal post and artificial tooth.",
+    "cost": 3000
+  },
+  {
+    "id": 7,
+    "treatment_name": "Orthodontic Braces",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL-GjPenHBKmjJHi0o4vZI7xCr339jovg0Q&s",
+    "description": "Appliances used to correct misaligned teeth and jaws over time.",
+    "cost": 5000
+  },
+  {
+    "id": 8,
+    "treatment_name": "Wisdom Tooth Extraction",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL-GjPenHBKmjJHi0o4vZI7xCr339jovg0Q&s",
+    "description": "Removal of impacted or problematic wisdom teeth.",
+    "cost": 400
+  },
+  {
+    "id": 9,
+    "treatment_name": "Dentures",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL-GjPenHBKmjJHi0o4vZI7xCr339jovg0Q&s",
+    "description": "Removable replacements for missing teeth and surrounding tissues.",
+    "cost": 1500
+  },
+  {
+    "id": 10,
+    "treatment_name": "Dental Veneers",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL-GjPenHBKmjJHi0o4vZI7xCr339jovg0Q&s",
+    "description": "Thin shells of porcelain or resin placed over the front of teeth for cosmetic purposes.",
+    "cost": 2500
+  }
+]

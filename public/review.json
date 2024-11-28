@@ -1,0 +1,62 @@
+[
+  {
+    "reviewId": "1",
+    "name": "Alice Johnson",
+    "UserImg": "https://randomuser.me/api/portraits/women/1.jpg",
+    "review": "The product quality is excellent and exceeded my expectations!"
+  },
+  {
+    "reviewId": "2",
+    "name": "Bob Smith",
+    "UserImg": "https://randomuser.me/api/portraits/men/2.jpg",
+    "review": "Fast delivery and great customer service. Highly recommend!"
+  },
+  {
+    "reviewId": "3",
+    "name": "Charlie Lee",
+    "UserImg": "https://randomuser.me/api/portraits/men/3.jpg",
+    "review": "The design is good, but the materials could be better."
+  },
+  {
+    "reviewId": "4",
+    "name": "Danielle Brown",
+    "UserImg": "https://randomuser.me/api/portraits/women/4.jpg",
+    "review": "I had an issue with my order, but it was resolved quickly. Thank you!"
+  },
+  {
+    "reviewId": "5",
+    "name": "Ethan Taylor",
+    "UserImg": "https://randomuser.me/api/portraits/men/5.jpg",
+    "review": "Affordable pricing for such a high-quality product."
+  },
+  {
+    "reviewId": "6",
+    "name": "Fiona White",
+    "UserImg": "https://randomuser.me/api/portraits/women/6.jpg",
+    "review": "The user manual was not very clear, but overall, I'm satisfied."
+  },
+  {
+    "reviewId": "7",
+    "name": "George Harris",
+    "UserImg": "https://randomuser.me/api/portraits/men/7.jpg",
+    "review": "Five stars for functionality and style!"
+  },
+  {
+    "reviewId": "8",
+    "name": "Hannah Wilson",
+    "UserImg": "https://randomuser.me/api/portraits/women/8.jpg",
+    "review": "I love how easy it is to use this product. A fantastic buy!"
+  },
+  {
+    "reviewId": "9",
+    "name": "Isaac Martinez",
+    "UserImg": "https://randomuser.me/api/portraits/men/9.jpg",
+    "review": "It arrived slightly damaged, but the team offered a replacement promptly."
+  },
+  {
+    "reviewId": "10",
+    "name": "Julia Evans",
+    "UserImg": "https://randomuser.me/api/portraits/women/10.jpg",
+    "review": "Great value for money. I'll definitely be purchasing again!"
+  }
+]
